@@ -130,37 +130,17 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&dur
       src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>
 </div>
 
-
-<div>
-  <h3>🚩 Full Stack Development Skills:</h3>
-  ✔ Front-end technologies such as HTML, CSS, JavaScript, and modern JavaScript frameworks like React, Angular, and
-  Vue.js.<br>
-  ✔ Experienced in back-end development using Nest.js, Express.js, Django, and Flask.<br>
-  ✔ Database including PostgreSQL, MySql, MongoDB, SQLite and RESTful APIs, microservices architecture, and cloud
-  platforms like AWS and Azure.<br>
-  <h3>🚩 Artificial Intelligence (AI) Specialization:</h3>
-  ✔ Machine learnign with TensorFlow, PyTorch, and scikit-learn.<br>
-  ✔ NLP, computer vision, and predictive analytics, with a focus on solving real-world problems and enhancing user
-  experiences.<br>
-  ✔ Proficient in data preprocessing, feature engineering, model training, and evaluation to deliver accurate and
-  scalable AI solutions.<br>
-  <h3>🚩 Blockchain Expertise:</h3>
-  ✔ Proficient in developing decentralized applications (DApps) using blockchain technologies such as Ethereum,
-  Solidity, and Hyperledger.<br>
-  ✔ Experienced in smart contract development, token creation, and implementing blockchain-based solutions for various
-  use cases, including supply chain management, finance, and decentralized finance (DeFi).<br>
-  ✔ Strong understanding of consensus mechanisms, cryptography, and blockchain protocols.<br>
-  <h3>🚩 Extra skills:</h3>
-  ✔ Web Scraping with Selenium, Beautifulsoup, Playweight, Pandas, Scrapy, LXML, Puppetter.<br>
-  ✔ AR/VR Game and software with Unity & Unreal & CryEngine.<br>
-  ✔ Windows app developing with C/C++/C#, Python, Electron, QT<br>
-  ✔ Mobile App developing with Android Studio, React Native, Flutter, Swift, Xamarin.<br>
-
-</div>
-
+### Key Skills:
+<ul>
+<li><b>Fullstack Development:</b> Proficient in designing and developing responsive web applications using modern frameworks like React, Node.js, and Django.</li>
+<li><b>AI Engineering:</b> Experienced in building and deploying AI-powered solutions, including voice agents, chatbots, and machine learning models.</li>
+<li><b>Backend Development:</b> Skilled in building robust APIs, databases, and server-side logic using Python, Go, and Node.js.</li>
+<li><b>Automation Engineering:</b> Adept at automating workflows and processes to improve efficiency and reduce manual effort.</li>
+<li><b>Web-Based Game Development:</b> Passionate about creating engaging and interactive web-based games using HTML5, JavaScript, and game engines like Phaser or Three.js.</li>
+</ul>
 <br />
 
-# 💻 My favorite tools and technologies
+##  My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
