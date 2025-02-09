@@ -151,15 +151,15 @@
       <br>Laravel
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=bots" width="48" height="48" alt="bots" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -167,7 +167,7 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="electron" />
       <br>jQuery
     </td>
   </tr>
@@ -186,7 +186,7 @@
       <br>PHP
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="godot" />
       <br>VsCode
     </td>
               <td align="center" width="96">
