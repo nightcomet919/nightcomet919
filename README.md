@@ -302,5 +302,5 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&dur
     </tr>
   </table>
   <br>
-  #### Whether it’s building a fullstack application, developing an AI-driven system, automating workflows, or creating immersive web-based games, I’m committed to delivering innovative and impactful solutions.
+  <center style="background-color:yellow"> Whether it’s building a fullstack application, developing an AI-driven system, automating workflows, or creating immersive web-based games, I’m committed to delivering innovative and impactful solutions.</center>
   <br>
