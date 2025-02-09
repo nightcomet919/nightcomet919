@@ -1,6 +1,13 @@
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=3000&pause=1000&center=true&width=800&height=100&lines=Seasoned+Fullstack+developer;Talented+AI+Engineer;Ideal+Automation+Assistant;Web-based+Game+developer)](https://git.io/typing-svg)
 
+# What I Bring:
+
+A problem-solving mindset with a focus on delivering high-quality, user-centric solutions.
+Strong collaboration and communication skills to work effectively in team environments.
+A passion for continuous learning and staying updated with the latest industry trends.
+Whether it’s building a fullstack application, developing an AI-driven system, automating workflows, or creating immersive web-based games, I’m committed to delivering innovative and impactful solutions.
+
 ## Languages and Tools
 <div align="center">
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px"
