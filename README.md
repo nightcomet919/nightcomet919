@@ -210,5 +210,44 @@
       <br>PostgreSQL
     </td>
  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="nuxt" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="unity" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="svelte" />
+      <br>WordPress
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
+      <br>Vue
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="rust" />
+      <br>Sass
+    </td>
+              <td align="center" width="96">
+<!--         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL -->
+    </td>
+    <td align="center" width="96">
+<!--         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL -->
+    </td>
+ </tr>
 </table>
 <br><br>
